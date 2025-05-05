@@ -31,11 +31,17 @@ I'm currently leveling up in **Google Cloud**, **Python**, and **project managem
 
 ## 🐍 Python + Coding Journey
 
-💡 Learning via freeCodeCamp (currently at lesson 25/96)  
-✅ Completed: String Manipulation by Building a Cipher  
-🧠 Practicing LeetCode: Easy Problems (5–7 per week)
+✅ Completed:
+- String Manipulation by Building a Cipher
 
----
+🧠 Practicing:
+- LeetCode Easy Problems (5–7 per week)
+
+🔜 Upcoming Projects:
+- Implementing the Luhn Algorithm (Numbers + Strings)
+- Lambda Functions via Expense Tracker
+- List Comprehension via Case Converter
+- Bisection Method to Find Square Roots
 
 ## 📈 Goals
 
